@@ -1,6 +1,6 @@
 import java.util.Random;
 public class Driver {
-//
+
 	public static void main(String[] args) {
 		int array1[] = new int [20];
 		int i = 20;									
